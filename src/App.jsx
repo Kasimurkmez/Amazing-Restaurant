@@ -1,7 +1,7 @@
 import { Outlet } from "react-router-dom";
 import "./index.css";
 import Footer from "./Pages/Shared Pages/Footer";
-import Header from "./Pages/Header";
+import Header from "./Pages/Shared Pages/Header";
 
 function App() {
   return (

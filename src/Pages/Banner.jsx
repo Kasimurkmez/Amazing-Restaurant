@@ -9,26 +9,28 @@ import img6 from "../../src/assets/home/06.png";
 
 function Banner() {
   return (
-    <Carousel>
-      <div>
-        <img src={img1} />
-      </div>
-      <div>
-        <img src={img2} />
-      </div>
-      <div>
-        <img src={img3} />
-      </div>
-      <div>
-        <img src={img4} />
-      </div>
-      <div>
-        <img src={img5} />
-      </div>
-      <div>
-        <img src={img6} />
-      </div>
-    </Carousel>
+    <div className="w-full mx-auto text-center">
+      <Carousel>
+        <div>
+          <img src={img1} />
+        </div>
+        <div>
+          <img src={img2} />
+        </div>
+        <div>
+          <img src={img3} />
+        </div>
+        <div>
+          <img src={img4} />
+        </div>
+        <div>
+          <img src={img5} />
+        </div>
+        <div>
+          <img src={img6} />
+        </div>
+      </Carousel>
+    </div>
   );
 }
 
