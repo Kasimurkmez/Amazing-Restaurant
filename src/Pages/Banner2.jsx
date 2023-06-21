@@ -5,12 +5,11 @@ function Banner2() {
     <div className="w-5/6 mx-auto text-center my-10 relative">
       <img src={banner2} alt="" />
       <div className="bg-white md:absolute top-5 bottom-5 md:p-8 md:m-16">
-        <h2 className="uppercase font-bold my-4">Bistro Boss</h2>
+        <h2 className="uppercase font-bold my-4">Fresh Food</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Necessitatibus, libero accusamus laborum deserunt ratione dolor
-          officiis praesentium! Deserunt magni aperiam dolor eius dolore at,
-          nihil iusto ducimus incidunt quibusdam nemo.
+          "Fresh Food website, filled with healthy, fresh, and delicious natural
+          foods, aims to support a healthy lifestyle by offering users
+          nutritious and innovative meal options."
         </p>
       </div>
     </div>

@@ -1,11 +1,11 @@
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
-import img1 from "../../src/assets/home/01.jpg";
-import img2 from "../../src/assets/home/02.jpg";
-import img3 from "../../src/assets/home/03.png";
-import img4 from "../../src/assets/home/04.jpg";
-import img5 from "../../src/assets/home/05.png";
-import img6 from "../../src/assets/home/06.png";
+import img1 from "../../src/assets/home/pexels-photo-970108.webp";
+import img2 from "../../src/assets/home/pexels-photo-842545.webp";
+import img3 from "../../src/assets/home/pexels-photo-2741448.jpeg";
+import img4 from "../../src/assets/home/pexels-photo-792026.jpeg";
+import img5 from "../../src/assets/home/pexels-photo-5639496.jpeg";
+import img6 from "../../src/assets/home/pexels-photo-9213911.jpeg";
 
 function Banner() {
   return (

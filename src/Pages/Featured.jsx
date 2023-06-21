@@ -13,13 +13,16 @@ const Featured = () => {
             <img src={featuedImg} alt="" className="md:p-12" />
           </div>
           <div>
-            <p>March 20, 2023</p>
+            <p>June 21, 2023</p>
             <h4 className="font-bold my-2">WHERE CAN I GET SOME?</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Error
-              voluptate facere, deserunt dolores maiores quod nobis quas quasi.
-              Eaque repellat recusandae ad laudantium tempore consequatur
-              consequuntur omnis ullam maxime tenetur.
+              "You can check the following sources to obtain the product/service
+              you are interested in: local stores, online retail websites,
+              official websites, authorized sellers, markets, or relevant
+              events. Additionally, you can find recommendations and suggestions
+              about the desired product or service on social media platforms or
+              forums. I suggest researching these sources to find the
+              product/service you need."
             </p>
             <button className="btn btn-outline border-0 border-b-2">
               Read More

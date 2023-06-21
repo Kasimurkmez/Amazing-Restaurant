@@ -14,7 +14,7 @@ function Catagory() {
   return (
     <div className="w-5/6 mx-auto my-5 ">
       <SectionTitle
-        subheading="From 11:00am to 10:00pm"
+        subheading="From 10:00am to 23:59pm"
         heading="ORDER ONLİNE"
       />
       <Swiper
