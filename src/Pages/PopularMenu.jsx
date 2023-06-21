@@ -33,7 +33,7 @@ function PopularMenu() {
       </div>
       <div className="bg-black my-12">
         <h4 className="py-20 text-center text-3xl text-white">
-          Call Us: +88 0192345678910
+          Call Us: +90 031297492092387
         </h4>
       </div>
     </section>
