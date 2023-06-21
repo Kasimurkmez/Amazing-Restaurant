@@ -2,23 +2,19 @@ function Header() {
   const navOptions = (
     <>
       <li>
-        <a>Home</a>
-      </li>
-      <li tabIndex={0}>
-        <details>
-          <summary>Parent</summary>
-          <ul className="p-2">
-            <li>
-              <a>Submenu 1</a>
-            </li>
-            <li>
-              <a>Submenu 2</a>
-            </li>
-          </ul>
-        </details>
+        <a>HOME</a>
       </li>
       <li>
-        <a>Item 3</a>
+        <a>CONTACT US</a>
+      </li>
+      <li>
+        <a>DASHBOARD</a>
+      </li>
+      <li>
+        <a>OUR MENU</a>
+      </li>
+      <li>
+        <a>OUR SHOP</a>
       </li>
     </>
   );

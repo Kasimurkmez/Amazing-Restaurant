@@ -4,6 +4,7 @@ import Catagory from "./Catagory";
 import Featured from "./Featured";
 import PopularMenu from "./PopularMenu";
 import Recommed from "./Recommed";
+import Testimonial from "./Testimonial";
 
 function Home() {
   return (
@@ -14,6 +15,7 @@ function Home() {
       <PopularMenu />
       <Recommed />
       <Featured />
+      <Testimonial />
     </>
   );
 }
